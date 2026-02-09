@@ -9,7 +9,7 @@ Write a solution to find the ids of products that are both low fat and recyclabl
 Return the result table in any order.
 */
 
--- Your Solution:
+-- My Solution:
 SELECT 
     product_id
 FROM 
