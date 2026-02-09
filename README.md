@@ -5,13 +5,14 @@ Welcome to my SQL practice repository! This project documents my journey through
 ## 📊 Progress Overview
 I am currently working through the **SQL 50** list to build a solid foundation in relational database management.
 
-| Section | Completed | Status |
-| :--- | :--- | :--- |
-| **Select** | 1 / 5 | 🟢 In Progress |
-| **Basic Joins** | 0 / 10 | ⚪ Not Started |
-| **Aggregate Functions** | 0 / 10 | ⚪ Not Started |
-| **Sorting & Grouping** | 0 / 10 | ⚪ Not Started |
-| **Advanced Select & Joins** | 0 / 15 | ⚪ Not Started |
+| # | Section | Problem | Title | Difficulty | Key Concept | Solution | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | **Select** | 1757 | Recyclable and Low Fat Products | Easy | `WHERE` (Multiple Conditions) | [View Code](./Select/1757-recyclable-and-low-fat-products.sql) | 🟢 Done |
+| 2 | **Select** | 584 | Find Customer Referee | Easy | `IS NULL` / `!=` | [Link]() | ⚪ Todo |
+| 3 | **Select** | 595 | Big Countries | Easy | `OR` Logic | [Link]() | ⚪ Todo |
+| 4 | **Basic Joins** | 1378 | Replace Employee ID With Unique Identifier | Easy | `LEFT JOIN` | [Link]() | ⚪ Todo |
+| 5 | **Aggregates** | 1075 | Project Employees I | Easy | `AVG()` / `ROUND()` | [Link]() | ⚪ Todo |
+| 6 | **Sorting** | 619 | Biggest Single Number | Easy | `GROUP BY` / `HAVING` | [Link]() | ⚪ Todo |
 
 ---
 
