@@ -11,7 +11,7 @@ I am currently working through the **SQL 50** list to build a solid foundation i
 | 2 | **Select** | 584 | Find Customer Referee | Easy | `IS NULL` / `Handling NULLs` | [View Code](./Select/584-find-customer-referee.sql) | 🟢 Done |
 | 3 | **Select** | 595 | Big Countries | Easy | `WHERE` with `OR` Logic | [View Code](./Select/595-big-countries.sql) | 🟢 Done |
 | 4 | **Select** | 1148 | Article Views I | Easy | `DISTINCT` / `ORDER BY` | [View Code](./Select/1148-article-views-i.sql) | 🟢 Done |
-| 5 | **Select** | 1683 | Invalid Tweets | Easy | `LENGTH()` | [Link]() | ⚪ Todo |
+| 5 | **Select** | 1683 | Invalid Tweets | Easy | `LENGTH()` | [View Code](./Select/1683-invalid-tweets.sql) | 🟢 Done |
 | 6 | **Basic Joins** | 1378 | Replace Employee ID With Unique Identifier | Easy | `LEFT JOIN` | [Link]() | ⚪ Todo |
 | 7 | **Basic Joins** | 1068 | Product Sales Analysis I | Easy | `INNER JOIN` | [Link]() | ⚪ Todo |
 | 8 | **Basic Joins** | 1581 | Customer Who Visited but Did Not Make Transactions | Easy | `LEFT JOIN` & `IS NULL` | [Link]() | ⚪ Todo |
