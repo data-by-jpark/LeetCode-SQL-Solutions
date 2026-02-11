@@ -12,7 +12,7 @@ I am currently working through the **SQL 50** list to build a solid foundation i
 | 3 | **Select** | 595 | Big Countries | Easy | `WHERE` with `OR` Logic | [View Code](./Select/595-big-countries.sql) | 🟢 Done |
 | 4 | **Select** | 1148 | Article Views I | Easy | `DISTINCT` / `ORDER BY` | [View Code](./Select/1148-article-views-i.sql) | 🟢 Done |
 | 5 | **Select** | 1683 | Invalid Tweets | Easy | `LENGTH()` | [View Code](./Select/1683-invalid-tweets.sql) | 🟢 Done |
-| 6 | **Basic Joins** | 1378 | Replace Employee ID With Unique Identifier | Easy | `LEFT JOIN` | [Link]() | ⚪ Todo |
+| 6 | **Basic Joins** | 1378 | Replace Employee ID With Unique Identifier | Easy | `LEFT JOIN` | [View Code](./Select/1378-replace-employee-id-with-unique-identifier.sql) | 🟢 Done |
 | 7 | **Basic Joins** | 1068 | Product Sales Analysis I | Easy | `INNER JOIN` | [Link]() | ⚪ Todo |
 | 8 | **Basic Joins** | 1581 | Customer Who Visited but Did Not Make Transactions | Easy | `LEFT JOIN` & `IS NULL` | [Link]() | ⚪ Todo |
 | 9 | **Basic Joins** | 197 | Rising Temperature | Easy | `Self Join` / `DATEDIFF()` | [Link]() | ⚪ Todo |
