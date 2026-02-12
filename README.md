@@ -15,7 +15,7 @@ I am currently working through the **SQL 50** list to build a solid foundation i
 | 6 | **Basic Joins** | 1378 | Replace Employee ID With Unique Identifier | Easy | `LEFT JOIN` | [View Code](./Basic-Joins/1378-replace-employee-id-with-unique-identifier.sql) | 🟢 Done |
 | 7 | **Basic Joins** | 1068 | Product Sales Analysis I | Easy | `INNER JOIN` | [View Code](./Basic-Joins/1068-product-sales-analysis-i.sql) | 🟢 Done |
 | 8 | **Basic Joins** | 1581 | Customer Who Visited but Did Not Make Transactions | Easy | `LEFT JOIN` & `IS NULL` | [View Code](./Basic-Joins/1581-customer-who-visited-but-did-not-make-transactions.sql) | 🟢 Done |
-| 9 | **Basic Joins** | 197 | Rising Temperature | Easy | `Self Join` / `DATEDIFF()` | [Link]() | ⚪ Todo |
+| 9 | **Basic Joins** | 197 | Rising Temperature | Easy | `Self Join` / `DATEDIFF()` | [View Code](./Basic-Joins/197-rising-temperature.sql) | 🟢 Done |
 | 10 | **Basic Joins** | 1661 | Average Time of Process per Machine | Easy | `Self Join` / `GROUP BY` | [Link]() | ⚪ Todo |
 | 11 | **Basic Joins** | 577 | Employee Bonus | Easy | `LEFT JOIN` / `IS NULL` | [Link]() | ⚪ Todo |
 | 12 | **Basic Joins** | 1280 | Students and Examinations | Easy | `CROSS JOIN` / `LEFT JOIN` | [Link]() | ⚪ Todo |
