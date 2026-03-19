@@ -2,6 +2,19 @@
 
 Welcome to my SQL practice repository! This project documents my journey through the **LeetCode SQL 50** study plan. As an aspiring Data Analyst, I am using these challenges to master data retrieval, complex joins, and advanced analytical functions.
 
+## 📂 Repository Structure
+The solutions are organized by the core SQL concepts tested:
+
+* **`/Select`**: Basic data retrieval, filtering with `WHERE` (multiple conditions), and handling `NULL` values.
+* **`/Basic-Joins`**: Combining data from multiple tables using `INNER`, `LEFT`, and `CROSS JOIN`, including `Self Joins` for hierarchical data.
+* **`/Aggregates`**: Summarizing and grouping data using `COUNT()`, `SUM()`, `AVG()`, and `GROUP BY`.
+* **`/Sorting`**: Data organization, uniqueness with `DISTINCT`, and filtering grouped data using `HAVING`.
+* **`/Advanced`**: Complex logic including `CASE WHEN` conditionals, `UNION / UNION ALL` set operations, and analytical window functions like `SUM() OVER`.
+* **`/Subqueries`**: Nested queries, CTEs (Common Table Expressions), and advanced ranking using `DENSE_RANK()`.
+* **`/String-Regex`**: Data Cleaning and text manipulation using `CONCAT()`, `SUBSTR()`, and pattern matching with `LIKE` or `REGEXP`.
+
+---
+
 ## 📊 Progress Overview
 I am currently working through the **SQL 50** list to build a solid foundation in relational database management.
 
@@ -60,23 +73,10 @@ I am currently working through the **SQL 50** list to build a solid foundation i
 
 ---
 
-## 📂 Repository Structure
-The solutions are organized by the core SQL concepts tested:
-
-* **`/Select`**: Basic data retrieval, filtering with `WHERE` (multiple conditions), and handling `NULL` values.
-* **`/Basic-Joins`**: Combining data from multiple tables using `INNER JOIN`, `LEFT JOIN`, and `Self Joins`.
-* **`/Aggregates`**: Summarizing and grouping data using `COUNT()`, `SUM()`, `AVG()`, and `GROUP BY`.
-* **`/Sorting`**: Data organization, uniqueness with `DISTINCT`, and filtering grouped data using `HAVING`.
-* **`/Advanced`**: Complex logic including `CASE WHEN`, `UNION`, and analytical window functions like `SUM() OVER`.
-* **`/Subqueries`**: Nested queries, CTEs (Common Table Expressions), and advanced ranking using `DENSE_RANK()`.
-* **`/String-Regex`**: Text manipulation using `CONCAT()`, `SUBSTR()`, and pattern matching with `LIKE` or `REGEXP`.
-
----
-
 ## 🛠️ Tech Stack
 * **Dialect:** MySQL
 * **Tools:** LeetCode, VS Code, Git/GitHub
-* **Key Concepts:** Data Cleaning, Joins, CTEs, Window Functions
+* **Key Concepts:** Data Cleaning, Joins & Set Operations, CTEs, Subqueries, Window Functions, Data Integrity
 
 ---
 
