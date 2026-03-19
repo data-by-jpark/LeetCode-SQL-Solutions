@@ -2,6 +2,11 @@
 
 Welcome to my SQL practice repository! This project documents my journey through the **LeetCode SQL 50** study plan. As an aspiring Data Analyst, I am using these challenges to master data retrieval, complex joins, and advanced analytical functions.
 
+## 🛠️ Tech Stack
+* **Dialect:** MySQL
+* **Tools:** LeetCode, VS Code, Git/GitHub
+* **Key Concepts:** Data Cleaning, Joins & Set Operations, CTEs, Subqueries, Window Functions, Data Integrity
+
 ## 📂 Repository Structure
 The solutions are organized by the core SQL concepts tested:
 
@@ -70,13 +75,6 @@ I am currently working through the **SQL 50** list to build a solid foundation i
 | 48 | **String/Regex** | 1484 | Group Sold Products By The Date | Easy | `GROUP_CONCAT()` | [Link]() | ⚪ Todo |
 | 49 | **String/Regex** | 1327 | List the Products Ordered in a Period | Easy | `DATE_FORMAT()` / `HAVING` | [Link]() | ⚪ Todo |
 | 50 | **String/Regex** | 1517 | Find Users With Valid E-Mails | Easy | `REGEXP` Pattern | [Link]() | ⚪ Todo |
-
----
-
-## 🛠️ Tech Stack
-* **Dialect:** MySQL
-* **Tools:** LeetCode, VS Code, Git/GitHub
-* **Key Concepts:** Data Cleaning, Joins & Set Operations, CTEs, Subqueries, Window Functions, Data Integrity
 
 ---
 
