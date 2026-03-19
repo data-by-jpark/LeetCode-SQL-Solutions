@@ -49,7 +49,7 @@ I am currently working through the **SQL 50** list to build a solid foundation i
 | 40 | **Subqueries** | 1321 | Restaurant Growth | Medium | `Moving Average` / `Window Function` | [View Code](./Subqueries/1321-restaurant-growth.sql) | 🟢 Done |
 | 41 | **Subqueries** | 602 | Friend Requests II: Who Has the Most Friends | Medium | `UNION ALL` / `LIMIT 1` | [View Code](./Subqueries/602-friend-requests-ii.sql) | 🟢 Done |
 | 42 | **Subqueries** | 585 | Investments in 2016 | Medium | `SUM` / `IN` Subquery | [View Code](./Subqueries/585-investments-in-2016.sql) | 🟢 Done |
-| 43 | **Subqueries** | 185 | Department Top Three Salaries | Hard | `DENSE_RANK()` | [Link]() | ⚪ Todo |
+| 43 | **Subqueries** | 185 | Department Top Three Salaries | Hard | `DENSE_RANK()` | [View Code](./Subqueries/185-department-top-three-salaries.sql) | 🟢 Done |
 | 44 | **String/Regex** | 1667 | Fix Names in a Table | Easy | `CONCAT()` / `SUBSTR()` | [Link]() | ⚪ Todo |
 | 45 | **String/Regex** | 1527 | Patients With a Condition | Easy | `LIKE` / Regexp | [Link]() | ⚪ Todo |
 | 46 | **String/Regex** | 196 | Delete Duplicate Emails | Easy | `DELETE` / `Self Join` | [Link]() | ⚪ Todo |
