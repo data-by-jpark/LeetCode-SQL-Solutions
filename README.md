@@ -63,10 +63,13 @@ I am currently working through the **SQL 50** list to build a solid foundation i
 ## 📂 Repository Structure
 The solutions are organized by the core SQL concepts tested:
 
-* **`/Select`**: Basic data filtering and column selection.
-* **`/Basic-Joins`**: Combining data from multiple tables (Inner, Left, Right).
-* **`/Aggregates`**: Summarizing data using `GROUP BY`, `SUM`, `AVG`, and `COUNT`.
-* **`/Advanced-Select`**: Window functions, subqueries, and complex logic.
+* **`/Select`**: Basic data retrieval, filtering with `WHERE` (multiple conditions), and handling `NULL` values.
+* **`/Basic-Joins`**: Combining data from multiple tables using `INNER JOIN`, `LEFT JOIN`, and `Self Joins`.
+* **`/Aggregates`**: Summarizing and grouping data using `COUNT()`, `SUM()`, `AVG()`, and `GROUP BY`.
+* **`/Sorting`**: Data organization, uniqueness with `DISTINCT`, and filtering grouped data using `HAVING`.
+* **`/Advanced`**: Complex logic including `CASE WHEN`, `UNION`, and analytical window functions like `SUM() OVER`.
+* **`/Subqueries`**: Nested queries, CTEs (Common Table Expressions), and advanced ranking using `DENSE_RANK()`.
+* **`/String-Regex`**: Text manipulation using `CONCAT()`, `SUBSTR()`, and pattern matching with `LIKE` or `REGEXP`.
 
 ---
 
