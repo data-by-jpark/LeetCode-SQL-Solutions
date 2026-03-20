@@ -71,7 +71,7 @@ I am currently working through the **SQL 50** list to build a solid foundation i
 | 44 | **String/Regex** | 1667 | Fix Names in a Table | Easy | `CONCAT()` / `SUBSTR()` | [View Code](./String-Regex/1667-fix-names-in-a-table.sql) | 🟢 Done |
 | 45 | **String/Regex** | 1527 | Patients With a Condition | Easy | `LIKE` / Regexp | [View Code](./String-Regex/1527-patients-with-a-condition.sql) | 🟢 Done |
 | 46 | **String/Regex** | 196 | Delete Duplicate Emails | Easy | `DELETE` / `Self Join` | [View Code](./String-Regex/196-delete-duplicate-emails.sql) | 🟢 Done |
-| 47 | **String/Regex** | 176 | Second Highest Salary | Medium | `LIMIT 1 OFFSET 1` | [Link]() | ⚪ Todo |
+| 47 | **String/Regex** | 176 | Second Highest Salary | Medium | `LIMIT 1 OFFSET 1` | [View Code](./String-Regex/176-second-highest-salary.sql) | 🟢 Done |
 | 48 | **String/Regex** | 1484 | Group Sold Products By The Date | Easy | `GROUP_CONCAT()` | [Link]() | ⚪ Todo |
 | 49 | **String/Regex** | 1327 | List the Products Ordered in a Period | Easy | `DATE_FORMAT()` / `HAVING` | [Link]() | ⚪ Todo |
 | 50 | **String/Regex** | 1517 | Find Users With Valid E-Mails | Easy | `REGEXP` Pattern | [Link]() | ⚪ Todo |
