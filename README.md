@@ -73,7 +73,7 @@ I am currently working through the **SQL 50** list to build a solid foundation i
 | 46 | **String/Regex** | 196 | Delete Duplicate Emails | Easy | `DELETE` / `Self Join` | [View Code](./String-Regex/196-delete-duplicate-emails.sql) | 🟢 Done |
 | 47 | **String/Regex** | 176 | Second Highest Salary | Medium | `LIMIT 1 OFFSET 1` | [View Code](./String-Regex/176-second-highest-salary.sql) | 🟢 Done |
 | 48 | **String/Regex** | 1484 | Group Sold Products By The Date | Easy | `GROUP_CONCAT()` | [View Code](./String-Regex/1484-group-sold-products-by-the-date.sql) | 🟢 Done |
-| 49 | **String/Regex** | 1327 | List the Products Ordered in a Period | Easy | `DATE_FORMAT()` / `HAVING` | [Link]() | ⚪ Todo |
+| 49 | **String/Regex** | 1327 | List the Products Ordered in a Period | Easy | `DATE_FORMAT()` / `HAVING` | [View Code](./String-Regex/1327-list-products-ordered-in-a-period.sql) | 🟢 Done |
 | 50 | **String/Regex** | 1517 | Find Users With Valid E-Mails | Easy | `REGEXP` Pattern | [Link]() | ⚪ Todo |
 
 ---
